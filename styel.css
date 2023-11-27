@@ -1,0 +1,8 @@
+#movingDiv {
+    width: 60px;
+    height: 60px;
+    background-color: blue;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
